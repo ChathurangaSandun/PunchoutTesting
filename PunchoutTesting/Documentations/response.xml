@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE cXML SYSTEM "http://xml.cxml.org/schemas/cXML/1.2.020/cXML.dtd">
+<cXML payloadID="2009-11-02T13:27:53+10:00" timestamp="2009-11-02T13:27:53+10:00">
+  <Response>
+    <Status code="200" text="OK"/>
+    <PunchOutSetupResponse>
+      <StartPage>
+        <URL>[https://supplier.com/StartPage]</URL>
+      </StartPage>
+    </PunchOutSetupResponse>
+  </Response>
+</cXML>
